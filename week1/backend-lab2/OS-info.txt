@@ -1,0 +1,3 @@
+Hostname: DESKTOP-GP91VCA
+Platform: win32
+CPUs: 16
